@@ -30,3 +30,19 @@ For the actual sorting algorithm, details like who the student is, what the assi
 The app will first validate that the dataset all have timestamps in the required format. Then, have the user make a submission. This submission is then placed into queue which will follow the merge sort algorithm: split the list into halves and recursively sort the halves until the halves are merged together into a final sorted list. The animation should highlight the new submission in its new, correct position.
 
 ### Flowchart
+(insert flowchart here)
+
+---
+
+### Steps to Run
+(Insert steps here)
+
+---
+
+### HuggingFace Link
+
+---
+
+### Author and AI Acknowledgment
+By Kristina Vela
+AI Disclaimer: I did not use AI for any part of this project.
