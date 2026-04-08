@@ -44,5 +44,5 @@ The app will first validate that the dataset all have timestamps in the required
 ---
 
 ### Author and AI Acknowledgment
-By Kristina Vela
+By Kristina Vela   
 AI Disclaimer: I did not use AI for any part of this project.
