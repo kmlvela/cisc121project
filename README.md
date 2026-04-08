@@ -1,8 +1,9 @@
 # cisc121project
 
 ## TA Grading Queue Organizer
-### Merge Sort Demo
-For the TA grading queue, I chose to implement it using merge sort. Merge sort is a stable sort, meaning the submissions will retain their relative order if two users submit at the same time. For something like a grading queue, order of submission is especially important, so a stable sort should be used to maintain this first in, first out order.
+### Merge Sort Demo  
+The problem I chose for this project is a TA grading queue. The app will create an ordered queue based on submission time that TA's can use to grade according to which students submit first.
+I chose to implement it using merge sort. Merge sort is a stable sort, meaning the submissions will retain their relative order if two users submit at the same time. For something like a grading queue, order of submission is especially important, so a stable sort should be used to maintain this first in, first out order.
 
 ### Test Demo
 (insert demo picture here)
