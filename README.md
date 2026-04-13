@@ -1,7 +1,7 @@
 # cisc121project
 
 ## TA Grading Queue Organizer
-### Merge Sort Demo  
+### Quick Sort Demo  
 The problem I chose for this project is a playlist vibe builder that sorts a playlist of songs based on their energy level. I chose to implement this using quick sort, as playlists are usually a small collection of songs and quick sort has a lower memory usage than merge sort. It allows for a faster average performance, as long as I choose a good pivot value.
 
 ### Test Demo
